@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Practices on aaroncohen.io</title>
+    <link>http://localhost:1313/tags/best-practices/</link>
+    <description>Recent content in Best Practices on aaroncohen.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstractions</title>
+      <link>http://localhost:1313/posts/abstractions/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/abstractions/</guid>
+      <description>&lt;p&gt;We rely on abstractions to make sense of the world. Your dog is not really a &amp;ldquo;dog.&amp;rdquo; There&amp;rsquo;s no such thing. The word is a generalization for a group of entities that share a similar genetic make-up. But it&amp;rsquo;s easier to just say, &amp;ldquo;dog,&amp;rdquo; and we all understand because we generally agree on the things the word stands for.&lt;/p&gt;&#xA;&lt;p&gt;Sometimes abstractions fail to sufficiently account for what they intend to describe. This is called a leaky abstraction and becomes more problematic as we attempt to pidgeonhole more and more concrete things into the abstraction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluating New Tech Project</title>
+      <link>http://localhost:1313/posts/evaluating-new-tech-project/</link>
+      <pubDate>Sun, 06 Jun 2021 14:36:08 +0300</pubDate>
+      <guid>http://localhost:1313/posts/evaluating-new-tech-project/</guid>
+      <description>&lt;p&gt;Programmers often face a dilema when coming into an existing project: whether to work with what they have, or start fresh (either entirely or with sections of the code). Because code is harder to read than write, how do we objectively judge how we should approach this dilema? The question is important because we will soon own what we&amp;rsquo;ve inherited.&lt;/p&gt;&#xA;&lt;p&gt;When reviewing a potential &amp;ldquo;fix it&amp;rdquo; project, ask yourself the following questions:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

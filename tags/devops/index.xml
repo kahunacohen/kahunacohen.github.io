@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on aaroncohen.io</title>
+    <link>http://localhost:1313/tags/devops/</link>
+    <description>Recent content in Devops on aaroncohen.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jul 2021 15:22:01 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Kubernetes</title>
+      <link>http://localhost:1313/posts/exploring-k8s/</link>
+      <pubDate>Wed, 21 Jul 2021 15:22:01 +0300</pubDate>
+      <guid>http://localhost:1313/posts/exploring-k8s/</guid>
+      <description>&lt;p&gt;With cloud native and microservice architectures gaining traction,&#xA;&lt;a href=&#34;https://kubernetes.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kubernetes&lt;/a&gt; (k8s) has become the standard tool for managing deployments.&#xA;But what is it, do I need it, and how do I most effectively get started with it?&#xA;That&amp;rsquo;s what this post aims to clarify.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m no k8s expert. I&amp;rsquo;ve been picking it up because I&amp;rsquo;m interested in the devops&#xA;space and because I see the problem domain it solves in my daily work. I&amp;rsquo;ve&#xA;found the best way to learn something is to simply start working with it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

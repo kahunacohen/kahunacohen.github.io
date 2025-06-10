@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aaroncohen.io</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on aaroncohen.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jul 2021 15:22:01 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Kubernetes</title>
+      <link>http://localhost:1313/posts/exploring-k8s/</link>
+      <pubDate>Wed, 21 Jul 2021 15:22:01 +0300</pubDate>
+      <guid>http://localhost:1313/posts/exploring-k8s/</guid>
+      <description>&lt;p&gt;With cloud native and microservice architectures gaining traction,&#xA;&lt;a href=&#34;https://kubernetes.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kubernetes&lt;/a&gt; (k8s) has become the standard tool for managing deployments.&#xA;But what is it, do I need it, and how do I most effectively get started with it?&#xA;That&amp;rsquo;s what this post aims to clarify.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m no k8s expert. I&amp;rsquo;ve been picking it up because I&amp;rsquo;m interested in the devops&#xA;space and because I see the problem domain it solves in my daily work. I&amp;rsquo;ve&#xA;found the best way to learn something is to simply start working with it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Abstractions</title>
+      <link>http://localhost:1313/posts/abstractions/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/abstractions/</guid>
+      <description>&lt;p&gt;We rely on abstractions to make sense of the world. Your dog is not really a &amp;ldquo;dog.&amp;rdquo; There&amp;rsquo;s no such thing. The word is a generalization for a group of entities that share a similar genetic make-up. But it&amp;rsquo;s easier to just say, &amp;ldquo;dog,&amp;rdquo; and we all understand because we generally agree on the things the word stands for.&lt;/p&gt;&#xA;&lt;p&gt;Sometimes abstractions fail to sufficiently account for what they intend to describe. This is called a leaky abstraction and becomes more problematic as we attempt to pidgeonhole more and more concrete things into the abstraction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Golang: a Python Killer?</title>
+      <link>http://localhost:1313/posts/go-python-killer/</link>
+      <pubDate>Wed, 07 Jul 2021 15:11:40 +0300</pubDate>
+      <guid>http://localhost:1313/posts/go-python-killer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://go.dev/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Golang&lt;/a&gt; is a newer-generation (2009) multi-purpose programming language developed by Google to address the challenges of software-development at-scale and concurrent programming.&lt;/p&gt;&#xA;&lt;p&gt;The most well-known projects written in Go are Docker and Kubernetes, but many other essential cloud-native tools are also written in Go, including &lt;a href=&#34;https://developer.hashicorp.com/terraform&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terraform&lt;/a&gt; and &lt;a href=&#34;https://www.influxdata.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;influxdb&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Though most cloud providers provide Go SDKs, in general the Go ecosystem is minimal. One of the reasons for this is that Go&amp;rsquo;s standard libraries (e.g. net/http) are more than sufficient for most use-cases. That said, there&amp;rsquo;s no killer, batteries-included server framework like &lt;a href=&#34;https://expressjs.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Express&lt;/a&gt;, &lt;a href=&#34;https://rubyonrails.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rails&lt;/a&gt;, or &lt;a href=&#34;https://www.djangoproject.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Django&lt;/a&gt; that provides a seamless developer experience. So, if your developing a standard, relatively simple API server, I wouldn&amp;rsquo;t use Go unless you have a good reason to (such as concurrency/performance considerations).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluating New Tech Project</title>
+      <link>http://localhost:1313/posts/evaluating-new-tech-project/</link>
+      <pubDate>Sun, 06 Jun 2021 14:36:08 +0300</pubDate>
+      <guid>http://localhost:1313/posts/evaluating-new-tech-project/</guid>
+      <description>&lt;p&gt;Programmers often face a dilema when coming into an existing project: whether to work with what they have, or start fresh (either entirely or with sections of the code). Because code is harder to read than write, how do we objectively judge how we should approach this dilema? The question is important because we will soon own what we&amp;rsquo;ve inherited.&lt;/p&gt;&#xA;&lt;p&gt;When reviewing a potential &amp;ldquo;fix it&amp;rdquo; project, ask yourself the following questions:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
